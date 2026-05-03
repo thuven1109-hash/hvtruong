@@ -1,0 +1,17 @@
+{
+  "name": "Huỳnh Vĩnh Trường",
+  "short_name": "Cậu Hai Trường",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFF0F5",
+  "theme_color": "#ff99cc",
+  "description": "Tiết hạnh của kẻ nghèo là thứ vô giá trị trước mặt đồng tiền.",
+  "icons": [
+    {
+      "src": "https://lh3.googleusercontent.com/u/0/d/1QwnYX60AUbQqm9cSbTuaZzP2W6CXcyD1",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
